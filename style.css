@@ -1,0 +1,41 @@
+div{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 50%;
+	}
+div form {
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		}
+li{
+	display: inline;
+	text-decoration: none;
+	font-size: 12px;
+	padding: 5px;
+	}
+a {
+	text-decoration: none;
+	color: black;
+	}
+#head {
+	margin-left: 70%;
+	min-width: 980px; 
+	height: 60px;
+	}
+li a{
+	color: #666;
+	font-size: 14px;
+	}
+#fright {
+	margin-left: 85%;
+	}
+#foot {
+	margin-top: 22%;
+	background-color: #f2f2f2;
+	}
+	input {
+	width: 500px;
+	}
+
